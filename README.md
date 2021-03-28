@@ -1,8 +1,7 @@
 # CppND-System-Monitor
 
-This project is compatable with majority of Ubuntu distributions and has been tested on Ubuntu 16.04 and Ubuntu 18.0
-
-Follow along with the classroom lesson to complete this project!
+# Overview
+This package is my work with Udacity ND course to build and understand Linux systems, its performance and memmory usage. This project is compatable with majority of Ubuntu distributions and has been tested on Ubuntu 16.04 and Ubuntu 18.0
 
 ![System Monitor](images/monitor.png)
 
